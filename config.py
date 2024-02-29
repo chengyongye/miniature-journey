@@ -5,11 +5,11 @@ app_id = "wx9c665798cb319218"
 app_secret = "665b63858ecc2eed085f8b8afa1780b6"
 # 模板消息id
 # 每日消息
-template_id1 = "VLR4J6r6jl0Da5QdaAOEQNxwdZGt27u6VTDS_X3Ff-8"
+template_id1 = "yyB06BqYUBLiNcNjJ52L7qI24J7v5jDGWtIe9dLCf4U"
 # 课程消息,上课提醒
-template_id2 = "nPC1zbbrOnRSY4YBHIMAahIZxcUIpxTE5Vx19YdhFMo"
+template_id2 = "OWB1zub1SuI5q95_XHFbPrne09yPEY7lY1AAtTeai7I"
 # 晚安心语
-template_id3 = "8VJhm4CBa03dYwXOezL_sLkMxejKfDsf4hutMAenhHc"
+template_id3 = "3viGXvxwT_ua6gjs3noS-ENTOWi7ehhu6CvBbN4PUOM"
 # 接收公众号消息的微信号
 # 这是openid
 user = ["ouKMI6bZGcaLxIOeLZx0X5YGnuyM"]
